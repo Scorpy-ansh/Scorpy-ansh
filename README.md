@@ -59,7 +59,9 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Scorpy-ansh/Scorpy-ansh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation - light](https://raw.githubusercontent.com/Scorpy-ansh/Scorpy-ansh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation - dark](https://raw.githubusercontent.com/Scorpy-ansh/Scorpy-ansh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
