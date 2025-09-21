@@ -32,3 +32,7 @@
 - 🌟 Built ML models for image classification & speech recognition  
 - 🎨 Designed UI/UX for multiple apps  
 - 📚 Learning NLP & MLOps
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Scorpy-ansh&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
