@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily (UTC)
+  workflow_dispatch:      # lets you run it manually
+  push:
+    branches: ["main"]    # run once right after you add this file
+
+permissions:
+  contents: write         # allow pushing the generated files
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate SVG (light & dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Scorpy-ansh
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          target_branch: output
+          build_dir: dist
