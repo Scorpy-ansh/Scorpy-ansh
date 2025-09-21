@@ -1,9 +1,13 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Anshuman+👋;Machine+Learning+%7C+Deep+Learning+%7C+AI;UI%2FUX+Designer+%7C+Frontend+Dev;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+AnshumanPattanayak+👋;Machine+Learning+%7C+Deep+Learning+%7C+AI;UI%2FUX+Designer+%7C+Frontend+Dev;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-# 👋 Hey, I’m Anshuman!
+# 👋 Hey, I’m Anshuman !
 
 🎓 BTech CSE (3rd Year)  
 🤖 Passionate about Machine Learning, Deep Learning & AI  
@@ -66,4 +70,7 @@
 ---
 
 ## 👀 Visitor Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=Scorpy-ansh&color=brightgreen)
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@Scorpy-ansh?theme=rule34" alt="visitor counter" />
+</p>
+
