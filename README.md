@@ -1,7 +1,7 @@
 <!-- Animated Typing Intro -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Anshuman+Pattanayak+👋;Machine+Learning+%7C+Deep+Learning+%7C+AI;UI%2FUX+Designer+%7C+Frontend+Dev;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Hey!+I'm+Anshuman+Pattanayak+👋;Machine+Learning+%7C+Deep+Learning+%7C+AI;UI%2FUX+Designer+%7C+Frontend+Dev;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,21 +35,30 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=7200&v=2" alt="Anshuman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=7200&v=3" alt="Anshuman's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=radical&hide_border=true&cache_seconds=7200&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=radical&hide_border=true&cache_seconds=7200&v=3" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak (Animated)
+<!-- The GIF below is generated daily by your GitHub Action into assets/streak.gif -->
+<!-- If it's not set up yet, the fallback card below will render instead -->
 <p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=Scorpy-ansh&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1" 
-    alt="GitHub Streak Stats" />
+  <!-- Animated self-hosted streak (preferred) -->
+  <img src="assets/streak.gif?v=3" alt="Contribution Streak (animated)" />
 </p>
 
+<!-- Fallback: uncomment the block below if you want a card while setting up the GIF -->
+<!--
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Scorpy-ansh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&type=png&v=3" 
+    alt="GitHub Streak Stats (fallback)" />
+</p>
+-->
 
 ---
 
@@ -70,14 +79,14 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=Scorpy-ansh&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=2" 
+      src="https://github-profile-trophy.vercel.app/?username=Scorpy-ansh&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=3" 
       alt="Scorpy-ansh's GitHub Trophies"
     />
   </a>
 </p>
 
 ## 🐍 Contribution Snake
-<!-- Make sure you have the GitHub Actions workflow set up for these files/paths -->
+<!-- Requires your GitHub Actions workflow that outputs these files -->
 ![Snake animation - light](https://raw.githubusercontent.com/Scorpy-ansh/Scorpy-ansh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation - dark](https://raw.githubusercontent.com/Scorpy-ansh/Scorpy-ansh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
