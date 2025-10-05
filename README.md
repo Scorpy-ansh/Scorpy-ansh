@@ -39,40 +39,39 @@
 <table>
   <tr>
     <!-- Card 1 -->
-    <td width="33%" valign="top">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Neon terminal coding" width="100%">
-      <h3>Software Development</h3>
-      <ul>
-        <li>Idea → Source Code (Python, React)</li>
-        <li>Debugging & optimization</li>
-        <li>Version control (Git/GitHub)</li>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Neon coding terminal">
+      <h3>ML / AI Development</h3>
+      <ul align="left">
+        <li>Deep learning (CNNs, Whisper)</li>
+        <li>Computer Vision & Safety systems</li>
+        <li>Clean APIs & model serving</li>
       </ul>
     </td>
 
     <!-- Card 2 -->
-    <td width="33%" valign="top">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Matrix code rain" width="100%">
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Matrix code rain">
       <h3>Problem Solving</h3>
-      <ul>
-        <li>Deep Learning (CNNs, Whisper)</li>
-        <li>CV & safety systems, error analysis</li>
-        <li>Read papers → quick prototypes</li>
+      <ul align="left">
+        <li>Data wrangling & experimentation</li>
+        <li>Error analysis & model iteration</li>
+        <li>Reading papers → quick prototypes</li>
       </ul>
     </td>
 
     <!-- Card 3 -->
-    <td width="33%" valign="top">
-      <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Hacker collab vibe" width="100%">
-      <h3>Collaboration & Teamwork</h3>
-      <ul>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" alt="Hacker collab aesthetic">
+      <h3>Collaboration & Build</h3>
+      <ul align="left">
         <li>UI/UX → Frontend handoff</li>
-        <li>Clean PRs, reviews & docs</li>
-        <li>Hackathons, demos, open source</li>
+        <li>Clean Git, PRs & reviews</li>
+        <li>Docs, demos & open source</li>
       </ul>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
