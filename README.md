@@ -36,49 +36,42 @@
 
 ## 🧩 My Timeline
 
-<div align="center" style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
-
-  <!-- Card 1 -->
-  <div style="width:280px; background:#0b0f16; border:1px solid #1f2a44; border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.05);">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding neon terminal" style="width:100%; height:160px; object-fit:cover; border-radius:8px 8px 0 0;">
-    <div style="padding:14px 14px 12px; text-align:left;">
-      <h3 style="margin:0 0 6px; color:#c3e4ff;">ML / AI Development</h3>
-      <ul style="margin:0; padding-left:18px; color:#cbd5e1;">
-        <li>Deep learning (CNNs, Whisper)</li>
-        <li>Computer Vision & Safety systems</li>
-        <li>Clean APIs & model serving</li>
+<table>
+  <tr>
+    <!-- Card 1 -->
+    <td width="33%" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Neon terminal coding" width="100%">
+      <h3>Software Development</h3>
+      <ul>
+        <li>Idea → Source Code (Python, React)</li>
+        <li>Debugging & optimization</li>
+        <li>Version control (Git/GitHub)</li>
       </ul>
-    </div>
-  </div>
+    </td>
 
-  <!-- Card 2 -->
-  <div style="width:280px; background:#0b0f16; border:1px solid #1f2a44; border-radius:8px; box-shadow:0 0 20px rgba(255,0,255,0.05);">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Matrix code rain" style="width:100%; height:160px; object-fit:cover; border-radius:8px 8px 0 0;">
-    <div style="padding:14px 14px 12px; text-align:left;">
-      <h3 style="margin:0 0 6px; color:#c3e4ff;">Problem Solving</h3>
-      <ul style="margin:0; padding-left:18px; color:#cbd5e1;">
-        <li>Data wrangling & experimentation</li>
-        <li>Error analysis & model iteration</li>
-        <li>Reading papers → quick prototypes</li>
+    <!-- Card 2 -->
+    <td width="33%" valign="top">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Matrix code rain" width="100%">
+      <h3>Problem Solving</h3>
+      <ul>
+        <li>Deep Learning (CNNs, Whisper)</li>
+        <li>CV & safety systems, error analysis</li>
+        <li>Read papers → quick prototypes</li>
       </ul>
-    </div>
-  </div>
+    </td>
 
-  <!-- Card 3 -->
-  <div style="width:280px; background:#0b0f16; border:1px solid #1f2a44; border-radius:8px; box-shadow:0 0 20px rgba(0,255,180,0.05);">
-    <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Terminal hacking aesthetic" style="width:100%; height:160px; object-fit:cover; border-radius:8px 8px 0 0;">
-    <div style="padding:14px 14px 12px; text-align:left;">
-      <h3 style="margin:0 0 6px; color:#c3e4ff;">Collaboration & Build</h3>
-      <ul style="margin:0; padding-left:18px; color:#cbd5e1;">
+    <!-- Card 3 -->
+    <td width="33%" valign="top">
+      <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Hacker collab vibe" width="100%">
+      <h3>Collaboration & Teamwork</h3>
+      <ul>
         <li>UI/UX → Frontend handoff</li>
-        <li>Clean Git, PRs & reviews</li>
-        <li>Docs, demos & open source</li>
+        <li>Clean PRs, reviews & docs</li>
+        <li>Hackathons, demos, open source</li>
       </ul>
-    </div>
-  </div>
-
-</div>
-
+    </td>
+  </tr>
+</table>
 
 ---
 
