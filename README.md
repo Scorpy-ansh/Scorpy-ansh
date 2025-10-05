@@ -1,7 +1,7 @@
 <!-- Animated Typing Intro -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+AnshumanPattanayak+👋;Machine+Learning+%7C+Deep+Learning+%7C+AI;UI%2FUX+Designer+%7C+Frontend+Dev;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Anshuman+Pattanayak+👋;Machine+Learning+%7C+Deep+Learning+%7C+AI;UI%2FUX+Designer+%7C+Frontend+Dev;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,25 +28,27 @@
 
 ## 🛠️ Skills (Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,react,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,react,figma,git,github,vscode" alt="skills" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=7200&v=2" alt="Anshuman's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=radical&hide_border=true&cache_seconds=7200&v=2" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Scorpy-ansh&theme=radical&hide_border=true&type=png&v=2" 
+    src="https://streak-stats.demolab.com?user=Scorpy-ansh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&type=png&v=3" 
     alt="GitHub Streak Stats" />
 </p>
-
-
 
 ---
 
@@ -62,21 +64,21 @@
 [![Hindi-ASR-Whisper](https://img.shields.io/badge/Hindi--ASR--Whisper-00A1F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Scorpy-ansh/Hindi-asr-whisper)  
 
 ---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=Scorpy-ansh&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" 
+      src="https://github-profile-trophy.vercel.app/?username=Scorpy-ansh&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=2" 
       alt="Scorpy-ansh's GitHub Trophies"
     />
   </a>
 </p>
 
-
 ## 🐍 Contribution Snake
+<!-- Make sure you have the GitHub Actions workflow set up for these files/paths -->
 ![Snake animation - light](https://raw.githubusercontent.com/Scorpy-ansh/Scorpy-ansh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation - dark](https://raw.githubusercontent.com/Scorpy-ansh/Scorpy-ansh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 ---
 
@@ -84,4 +86,3 @@
 <p align="center">
   <img src="https://moe-counter.glitch.me/get/@Scorpy-ansh?theme=rule34" alt="visitor counter" />
 </p>
-
