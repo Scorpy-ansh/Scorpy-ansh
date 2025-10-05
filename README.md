@@ -42,9 +42,10 @@
 ## 🔥 Streak Stats
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Scorpy-ansh&theme=radical&hide_border=true&v=2" 
+    src="https://streak-stats.demolab.com?user=Scorpy-ansh&theme=radical&hide_border=true&type=png&v=2" 
     alt="GitHub Streak Stats" />
 </p>
+
 
 
 ---
