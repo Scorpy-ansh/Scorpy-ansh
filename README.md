@@ -6,78 +6,105 @@
 
 ---
 
-## 🧠 About Me
-- 💻 **Software Developer** passionate about building intelligent systems & interactive web apps  
-- 🤖 Crafting **ML models, APIs, and automation tools** using Python, TensorFlow, and PyTorch  
-- 🎨 Designing **aesthetic UIs** & smooth user experiences  
-- 🌱 Currently learning **MLOps & Full-Stack Development**  
-- 🤝 Open to **collabs, hackathons, and creative projects**
+## 🤖 About Me
+
+🎓 BTech CSE (3rd Year)  
+🤖 Passionate about Machine Learning, Deep Learning & AI  
+🎨 Also into UI/UX Design & Frontend Development  
+🚀 Always exploring cutting-edge tech!
+
 
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,react,figma,git,github,vscode" />
-</p>
+<div align="center" style="background:#0d1117; padding:10px; border-radius:8px;">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,react,figma,git,github,vscode&perline=10" 
+       alt="Tech Stack"
+       style="width:100%; border-radius:8px; margin:0; padding:0; display:block;"/>
+</div>
 
 ---
 
 ## 🎓 Certifications
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer%20Intern-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeCodeCamp-Certified-green?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-API%20Certified-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internshala-Web%20Development-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Internshala Web Development"/>
+  <img src="https://img.shields.io/badge/Google-UI%2FUX%20Design-orange?style=for-the-badge&logo=google&logoColor=white" alt="Google UI UX Design"/>
+  <img src="https://img.shields.io/badge/Laundry%20Lift-Graphic%20Designer-purple?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Laundry Lift Graphic Designer"/>
 </p>
 
 ---
 
 ## 🧩 My Timeline
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180px"/><br/>
-      <b>Software Development</b><br/>
-      <sub>Idea → Source Code</sub><br/>
-      <sub>Debugging & Optimization</sub><br/>
-      <sub>Version Control (Git)</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="180px"/><br/>
-      <b>Problem Solving</b><br/>
-      <sub>Analytical & critical thinking</sub><br/>
-      <sub>Breaking complex issues</sub><br/>
-      <sub>Creative solutions</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/fXbYdE0gMka6A/giphy.gif" width="180px"/><br/>
-      <b>Collaboration & Teamwork</b><br/>
-      <sub>Active communication</sub><br/>
-      <sub>Thriving in group projects</sub><br/>
-      <sub>Helping peers grow</sub>
-    </td>
-  </tr>
-</table>
+
+<div align="center" style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
+
+  <!-- Card 1 -->
+  <div style="width:280px; background:#0b0f16; border:1px solid #1f2a44; border-radius:8px; box-shadow:0 0 20px rgba(0,255,255,0.05);">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding neon terminal" style="width:100%; height:160px; object-fit:cover; border-radius:8px 8px 0 0;">
+    <div style="padding:14px 14px 12px; text-align:left;">
+      <h3 style="margin:0 0 6px; color:#c3e4ff;">ML / AI Development</h3>
+      <ul style="margin:0; padding-left:18px; color:#cbd5e1;">
+        <li>Deep learning (CNNs, Whisper)</li>
+        <li>Computer Vision & Safety systems</li>
+        <li>Clean APIs & model serving</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="width:280px; background:#0b0f16; border:1px solid #1f2a44; border-radius:8px; box-shadow:0 0 20px rgba(255,0,255,0.05);">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Matrix code rain" style="width:100%; height:160px; object-fit:cover; border-radius:8px 8px 0 0;">
+    <div style="padding:14px 14px 12px; text-align:left;">
+      <h3 style="margin:0 0 6px; color:#c3e4ff;">Problem Solving</h3>
+      <ul style="margin:0; padding-left:18px; color:#cbd5e1;">
+        <li>Data wrangling & experimentation</li>
+        <li>Error analysis & model iteration</li>
+        <li>Reading papers → quick prototypes</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="width:280px; background:#0b0f16; border:1px solid #1f2a44; border-radius:8px; box-shadow:0 0 20px rgba(0,255,180,0.05);">
+    <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Terminal hacking aesthetic" style="width:100%; height:160px; object-fit:cover; border-radius:8px 8px 0 0;">
+    <div style="padding:14px 14px 12px; text-align:left;">
+      <h3 style="margin:0 0 6px; color:#c3e4ff;">Collaboration & Build</h3>
+      <ul style="margin:0; padding-left:18px; color:#cbd5e1;">
+        <li>UI/UX → Frontend handoff</li>
+        <li>Clean Git, PRs & reviews</li>
+        <li>Docs, demos & open source</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&v=2" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=tokyonight&hide_border=true&v=2" height="170"/>
-</p>
 
----
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-## 🔥 Contribution Streak
-<!-- Animated streak badge (if workflow added) -->
-<p align="center">
-  <img src="assets/streak.gif?v=3" alt="Animated Contribution Streak"/>
-</p>
+  <!-- GitHub Stats Card -->
+  <div style="flex:1; min-width:280px; max-width:340px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&v=2" 
+         alt="Anshuman's GitHub Stats" style="width:100%; border-radius:10px;"/>
+  </div>
 
-<!-- fallback card if GIF not generated yet -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Scorpy-ansh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=3" alt="GitHub Streak"/>
-</p>
+  <!-- Most Used Languages Card -->
+  <div style="flex:1; min-width:280px; max-width:340px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=tokyonight&hide_border=true&v=2" 
+         alt="Top Languages" style="width:100%; border-radius:10px;"/>
+  </div>
+
+  <!-- Contribution Streak Card -->
+  <div style="flex:1; min-width:280px; max-width:340px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Scorpy-ansh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" 
+         alt="GitHub Streak Stats" style="width:100%; border-radius:10px;"/>
+  </div>
+
+</div>
 
 ---
 
@@ -87,6 +114,24 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+<p align="center">
+
+  <a href="https://github.com/Scorpy-ansh/Hindi-asr-whisper">
+    <img src="https://img.shields.io/badge/Hindi--ASR--Whisper-%2300BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Hindi ASR Whisper"/>
+  </a>
+  <a href="https://github.com/Scorpy-ansh/pedestrian-safety">
+    <img src="https://img.shields.io/badge/Pedestrian--Safety-%23FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Pedestrian Safety"/>
+  </a>
+  <a href="https://github.com/Scorpy-ansh/VGG-Image-Classification">
+    <img src="https://img.shields.io/badge/VGG--Image--Classification-%23FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="VGG Image Classification"/>
+  </a>
+  <a href="https://github.com/Scorpy-ansh/Resnet50-Image-Classification">
+    <img src="https://img.shields.io/badge/ResNet50--Image--Classification-%237B68EE?style=for-the-badge&logo=github&logoColor=white" alt="ResNet50 Image Classification"/>
+  </a>
+
+</p>
+
 
 ## 🕹️ Contribution Graph
 <p align="center">
@@ -95,12 +140,20 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/Scorpy-ansh"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:belindapendry659@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Scorpy-ansh"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://dribbble.com"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshuman-pattanayak-3ba579338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anshumanp1006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Scorpy-ansh">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.behance.net/anshumapattana4">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
 </p>
 
 ---
