@@ -1,18 +1,42 @@
-<!-- HEADER -->
-<div align="center">
-  <h1 style="color:#00E0FF;">Hello, I'm Anshuman 👋</h1>
-  <h3>Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀</h3>
-</div>
+<!-- Paste this SVG directly into README.md -->
+<svg width="760" height="140" viewBox="0 0 760 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hello, I'm Anshuman">
+  <rect width="100%" height="100%" fill="#0b0f12" rx="6" />
+  <!-- main text (will be revealed by clip rect) -->
+  <defs>
+    <clipPath id="revealClip">
+      <!-- animate the width of this rect to reveal the heading -->
+      <rect x="40" y="36" width="0" height="50">
+        <animate attributeName="width" from="0" to="680" dur="2.6s" begin="0.3s" fill="freeze" />
+      </rect>
+    </clipPath>
 
----
+    <!-- small wave animation group for emoji -->
+    <g id="waveGroup">
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 0 0;14 0 0;-8 0 0;14 0 0;-4 0 0;10 0 0;0 0 0" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+    </g>
+  </defs>
 
-## 🤖 About Me
+  <g clip-path="url(#revealClip)">
+    <text x="40" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial"
+          font-size="34" fill="#00E0FF">Hello, I'm Anshuman </text>
+  </g>
 
-🎓 BTech CSE (3rd Year)  
-🤖 Passionate about Machine Learning, Deep Learning & AI  
-🎨 Also into UI/UX Design & Frontend Development  
-🚀 Always exploring cutting-edge tech!
+  <!-- emoji uses its own small animation via a second clip (so it appears slightly after text starts) -->
+  <g transform="translate(540,48)" >
+    <g id="emoji" >
+      <text x="0" y="26" font-size="30">👋</text>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" 
+                        values="0;14;-8;14;-4;10;0" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+    </g>
+  </g>
 
+  <!-- subtitle fades in -->
+  <text x="40" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial"
+        font-size="14" fill="#d6eefd" opacity="0">
+    Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.7s" fill="freeze" />
+  </text>
+</svg>
 
 ---
 
