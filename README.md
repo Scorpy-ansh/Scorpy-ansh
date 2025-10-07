@@ -33,47 +33,6 @@
 </p>
 
 ---
-
-## 🧩 My Timeline
-
-<p align="center">
-
-  <!-- Card 1 -->
-  <div style="display:inline-block; vertical-align:top; width:30%; margin:5px;">
-    <img src="https://media.giphy.com/media/IhDjGt1zF6N1K/giphy.gif" width="100%" alt="AI coding animation">
-    <h3>ML / AI Development</h3>
-    <ul align="left">
-      <li>Deep learning (CNNs, Whisper)</li>
-      <li>Computer Vision & Safety systems</li>
-      <li>Clean APIs & model serving</li>
-    </ul>
-  </div>
-
-  <!-- Card 2 -->
-  <div style="display:inline-block; vertical-align:top; width:30%; margin:5px;">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Matrix code rain">
-    <h3>Problem Solving</h3>
-    <ul align="left">
-      <li>Data wrangling & experimentation</li>
-      <li>Error analysis & model iteration</li>
-      <li>Reading papers → quick prototypes</li>
-    </ul>
-  </div>
-
-  <!-- Card 3 -->
-  <div style="display:inline-block; vertical-align:top; width:30%; margin:5px;">
-    <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="100%" alt="Hacker collab aesthetic">
-    <h3>Collaboration & Build</h3>
-    <ul align="left">
-      <li>UI/UX → Frontend handoff</li>
-      <li>Clean Git, PRs & reviews</li>
-      <li>Docs, demos & open source</li>
-    </ul>
-  </div>
-
-</p>
-
-
 ## 📊 GitHub Stats
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
