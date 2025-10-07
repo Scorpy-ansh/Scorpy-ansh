@@ -1,37 +1,18 @@
-<!-- Neon animated header for README.md -->
+<!-- HEADER -->
 <div align="center">
-
-<svg width="700" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title {
-      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-      font-size: 36px;
-      fill: #00e0ff;
-    }
-    .name {
-      fill: #00ffff;
-      filter: drop-shadow(0 0 6px #00ffff);
-      animation: neonPulse 2s ease-in-out infinite alternate;
-    }
-    @keyframes neonPulse {
-      from {
-        fill: #00e0ff;
-        filter: drop-shadow(0 0 6px #00e0ff) drop-shadow(0 0 12px #00e0ff);
-      }
-      to {
-        fill: #00ffff;
-        filter: drop-shadow(0 0 10px #00ffff) drop-shadow(0 0 20px #00ffff);
-      }
-    }
-  </style>
-
-  <text x="100" y="55" class="title">Hello, I'm </text>
-  <text x="310" y="55" class="title name">Anshuman 👋</text>
-</svg>
-
-<h3>Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀</h3>
-
+  <h1 style="color:#00E0FF;">Hello, I'm Anshuman 👋</h1>
+  <h3>Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀</h3>
 </div>
+
+---
+
+## 🤖 About Me
+
+🎓 BTech CSE (3rd Year)  
+🤖 Passionate about Machine Learning, Deep Learning & AI  
+🎨 Also into UI/UX Design & Frontend Development  
+🚀 Always exploring cutting-edge tech!
+
 
 ## 🧰 Tech Stack
 <div align="center" style="background:#0d1117; padding:10px; border-radius:8px;">
