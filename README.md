@@ -1,44 +1,138 @@
-<!-- Paste this SVG directly into README.md -->
-<svg width="760" height="140" viewBox="0 0 760 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hello, I'm Anshuman">
-  <rect width="100%" height="100%" fill="#0b0f12" rx="6" />
-  <!-- main text (will be revealed by clip rect) -->
-  <defs>
-    <clipPath id="revealClip">
-      <!-- animate the width of this rect to reveal the heading -->
-      <rect x="40" y="36" width="0" height="50">
-        <animate attributeName="width" from="0" to="680" dur="2.6s" begin="0.3s" fill="freeze" />
-      </rect>
-    </clipPath>
+<!-- Animated header - use on GitHub Pages or any HTML page -->
+<div align="center" class="animated-header">
+  <h1 id="headline">Hello, I'm <span class="name">Anshuman</span> <span class="hand">👋</span></h1>
+  <h3 id="subtitle">Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀</h3>
+</div>
 
-    <!-- small wave animation group for emoji -->
-    <g id="waveGroup">
-      <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0 0 0;14 0 0;-8 0 0;14 0 0;-4 0 0;10 0 0;0 0 0" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-    </g>
-  </defs>
+<style>
+/* container styling */
+.animated-header { 
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: #e6f7ff;
+  background: #0b0f12; /* optional page background */
+  padding: 28px 12px;
+  border-radius: 8px;
+  display: inline-block;
+}
 
-  <g clip-path="url(#revealClip)">
-    <text x="40" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial"
-          font-size="34" fill="#00E0FF">Hello, I'm Anshuman </text>
-  </g>
+/* headline look */
+.animated-header h1 {
+  font-size: 36px;
+  margin: 0;
+  letter-spacing: 0.5px;
+  color: #00E0FF;
+  white-space: nowrap;
+  overflow: hidden;
+}
 
-  <!-- emoji uses its own small animation via a second clip (so it appears slightly after text starts) -->
-  <g transform="translate(540,48)" >
-    <g id="emoji" >
-      <text x="0" y="26" font-size="30">👋</text>
-      <animateTransform attributeName="transform" attributeType="XML" type="rotate" 
-                        values="0;14;-8;14;-4;10;0" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-    </g>
-  </g>
+/* name styling (keeps color consistent) */
+.animated-header .name { font-weight: 700; }
 
-  <!-- subtitle fades in -->
-  <text x="40" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial"
-        font-size="14" fill="#d6eefd" opacity="0">
-    Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀
-    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.7s" fill="freeze" />
-  </text>
-</svg>
+/* wave animation for emoji */
+.hand {
+  display: inline-block;
+  transform-origin: 70% 70%;
+  animation: wave 2s ease-in-out infinite;
+  margin-left: 6px;
+  font-size: 1.05em;
+}
 
----
+/* subtitle fade-in */
+#subtitle {
+  opacity: 0;
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #d6eefd;
+  transition: opacity 0.6s ease 0.25s;
+}
+
+/* typewriter caret effect (for the typed part) */
+.cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  background: #00E0FF;
+  vertical-align: middle;
+  margin-left: 6px;
+  animation: blink 1s steps(2, start) infinite;
+}
+
+/* keyframes */
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  15% { transform: rotate(14deg); }
+  30% { transform: rotate(-8deg); }
+  40% { transform: rotate(14deg); }
+  50% { transform: rotate(-4deg); }
+  60% { transform: rotate(10deg); }
+  100% { transform: rotate(0deg); }
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  50.01%, 100% { opacity: 0; }
+}
+
+/* small responsive tweak */
+@media (max-width: 520px) {
+  .animated-header h1 { font-size: 24px; }
+  #subtitle { font-size: 14px; }
+}
+</style>
+
+<script>
+/* Typing effect - types "Hello, I'm Anshuman 👋" then shows subtitle */
+(function() {
+  const fullText = "Hello, I'm Anshuman ";
+  const headline = document.getElementById('headline');
+  const subtitle = document.getElementById('subtitle');
+
+  // Clear existing text, keep markup for name & hand intact
+  headline.innerHTML = '';
+  const spanText = document.createElement('span');
+  spanText.id = 'typed';
+  headline.appendChild(spanText);
+
+  const handSpan = document.createElement('span');
+  handSpan.className = 'hand';
+  handSpan.textContent = '👋';
+  headline.appendChild(handSpan);
+
+  // cursor
+  const cursor = document.createElement('span');
+  cursor.className = 'cursor';
+  headline.appendChild(cursor);
+
+  let i = 0;
+  function typeStep() {
+    if (i < fullText.length) {
+      spanText.textContent += fullText[i++];
+      setTimeout(typeStep, 75 + Math.random()*80);
+    } else {
+      // replace typed area with styled name + remove cursor
+      const typed = document.getElementById('typed').textContent;
+      const name = document.createElement('span');
+      name.className = 'name';
+      // keep full typed text but highlight 'Anshuman'
+      const visible = typed.replace('Hello, I\'m ', '');
+      name.textContent = visible;
+      // rebuild headline: static prefix + highlighted name + hand + no cursor
+      headline.innerHTML = 'Hello, I\'m ';
+      headline.appendChild(name);
+      const hand = document.createElement('span');
+      hand.className = 'hand';
+      hand.textContent = '👋';
+      headline.appendChild(hand);
+      // reveal subtitle
+      setTimeout(()=> { subtitle.style.opacity = 1; }, 200);
+    }
+  }
+  // start typing after a short delay
+  setTimeout(typeStep, 300);
+})();
+</script>
+
 
 ## 🧰 Tech Stack
 <div align="center" style="background:#0d1117; padding:10px; border-radius:8px;">
