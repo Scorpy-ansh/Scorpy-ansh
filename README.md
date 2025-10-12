@@ -62,6 +62,8 @@
   </a>
 
 </p>
+
+---
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scorpy-ansh&bg_color=000000&color=00FFFF&line=ff00ff&point=ffffff&area=true&hide_border=true&v=3" alt="Anshuman's contribution graph" />
