@@ -33,27 +33,13 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+## 📊 GitHub Stats
 
-  <!-- GitHub Stats Card -->
-  <div style="flex:1; min-width:280px; max-width:340px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&v=2" 
-         alt="Anshuman's GitHub Stats" style="width:100%; border-radius:10px;"/>
-  </div>
-
-  <!-- Most Used Languages Card -->
-  <div style="flex:1; min-width:280px; max-width:340px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=tokyonight&hide_border=true&v=2" 
-         alt="Top Languages" style="width:100%; border-radius:10px;"/>
-  </div>
-
-  <!-- Contribution Streak Card -->
-  <div style="flex:1; min-width:280px; max-width:340px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Scorpy-ansh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" 
-         alt="GitHub Streak Stats" style="width:100%; border-radius:10px;"/>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="140" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Scorpy-ansh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpy-ansh&layout=compact&theme=tokyonight&hide_border=true" height="140" />
+</p>
 
 ---
 
