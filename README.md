@@ -6,7 +6,7 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 🎓 BTech CSE (3rd Year)  
 🤖 Passionate about Machine Learning, Deep Learning & AI  
@@ -14,16 +14,14 @@
 🚀 Always exploring cutting-edge tech!
 
 
-## 🧰 Tech Stack
+## Tech Stack
 <div align="center" style="background:#0d1117; padding:10px; border-radius:8px;">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,react,figma,git,github,vscode&perline=10" 
        alt="Tech Stack"
        style="width:100%; border-radius:8px; margin:0; padding:0; display:block;"/>
 </div>
-
 ---
-
-## 🎓 Certifications
+## Certifications
 <p align="center">
   <img src="https://img.shields.io/badge/Internshala-Web%20Development-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Internshala Web Development"/>
   <img src="https://img.shields.io/badge/Google-UI%2FUX%20Design-orange?style=for-the-badge&logo=google&logoColor=white" alt="Google UI UX Design"/>
@@ -31,9 +29,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Scorpy-ansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="140" />
@@ -43,13 +39,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Scorpy-ansh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=3" />
 </p>
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 <p align="center">
 
   <a href="https://github.com/Scorpy-ansh/Hindi-asr-whisper">
@@ -66,16 +62,13 @@
   </a>
 
 </p>
-
-
-## 🕹️ Contribution Graph
+## Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scorpy-ansh&bg_color=000000&color=00FFFF&line=ff00ff&point=ffffff&area=true&hide_border=true&v=3" alt="Anshuman's contribution graph" />
 </p>
 
 ---
-
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/anshuman-pattanayak-3ba579338/">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
