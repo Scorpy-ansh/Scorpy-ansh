@@ -21,6 +21,7 @@
        style="width:100%; border-radius:8px; margin:0; padding:0; display:block;"/>
 </div>
 ---
+
 ## 🏅 Certifications
 <p align="center">
   <img src="https://img.shields.io/badge/Internshala-Web%20Development-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Internshala Web Development"/>
