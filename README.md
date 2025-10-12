@@ -20,7 +20,7 @@
        alt="Tech Stack"
        style="width:100%; border-radius:8px; margin:0; padding:0; display:block;"/>
 </div>
----
+
 
 ## 🏅 Certifications
 <p align="center">
