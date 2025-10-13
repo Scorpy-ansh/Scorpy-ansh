@@ -9,11 +9,10 @@
 
 🧠 About Me
 
-🎓 BTech CSE (3rd Year)  
-🤖 Passionate about Machine Learning, Deep Learning & AI  
-🎨 Also into UI/UX Design & Frontend Development  
-🚀 Always exploring cutting-edge tech!
-
+🎓 B.Tech in Computer Science (3rd Year)
+🤖 Passionate about Machine Learning, Deep Learning, and Artificial Intelligence
+🎨 Interested in UI/UX Design and Frontend Development
+🚀 Constantly exploring emerging technologies and innovative solutions
 
 ## 🧩 Tech Stack
 <div align="center" style="background:#0d1117; padding:10px; border-radius:8px;">
