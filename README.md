@@ -14,6 +14,8 @@
 🎨 Interested in UI/UX Design and Frontend Development
 🚀 Constantly exploring emerging technologies and innovative solutions
 
+---
+
 ## 🧩 Tech Stack
 <div align="center" style="background:#0d1117; padding:10px; border-radius:8px;">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,react,figma,git,github,vscode&perline=10" 
