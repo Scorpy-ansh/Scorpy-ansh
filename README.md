@@ -7,12 +7,11 @@
 
 ---
 
-🧠 About Me
-
-🎓 B.Tech in Computer Science (3rd Year)
-🤖 Passionate about Machine Learning, Deep Learning, and Artificial Intelligence
-🎨 Interested in UI/UX Design and Frontend Development
-🚀 Constantly exploring emerging technologies and innovative solutions
+### 🧠 About Me  
+🎓 **B.Tech in Computer Science (3rd Year)** <br>
+🤖 Passionate about **Machine Learning, Deep Learning, and Artificial Intelligence** <br>
+🎨 Interested in **UI/UX Design** and **Frontend Development** <br>
+🚀 Constantly exploring **emerging technologies** and **innovative solutions**
 
 ---
 
