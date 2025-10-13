@@ -1,0 +1,80 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b0f14"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <!-- Noise for displacement -->
+    <filter id="glitch">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" result="n">
+        <animate attributeName="seed" values="2;5;8;12;2" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="baseFrequency" values="0.6;1.2;0.4;0.9;0.6" dur="3.2s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="4"/>
+    </filter>
+
+    <!-- Scanlines -->
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000000"/>
+      <rect y="1" width="4" height="3" fill="transparent"/>
+    </pattern>
+
+    <!-- Sliced clipping rectangles -->
+    <clipPath id="s1"><rect x="0" y="12" width="900" height="26"/></clipPath>
+    <clipPath id="s2"><rect x="0" y="44" width="900" height="28"/></clipPath>
+    <clipPath id="s3"><rect x="0" y="78" width="900" height="26"/></clipPath>
+
+    <!-- Text styles -->
+    <style>
+      .t { font: 700 56px/1.1 "Menlo", "Cascadia Code", Consolas, monospace; letter-spacing:1px; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <rect width="100%" height="100%" fill="url(#scan)" opacity="0.12"/>
+
+  <!-- Base text -->
+  <g filter="url(#glitch)">
+    <text class="t" x="60" y="88" fill="#e6edf3">Hello, I'm Anshuman</text>
+  </g>
+
+  <!-- RGB split layers with jitter -->
+  <g clip-path="url(#s1)">
+    <text class="t" x="60" y="88" fill="#ff004c" opacity="0.8">
+      Hello, I'm Anshuman
+      <animate attributeName="x" values="54;66;58;60;54" dur="1.6s" repeatCount="indefinite"/>
+    </text>
+    <text class="t" x="60" y="88" fill="#00e5ff" opacity="0.8">
+      Hello, I'm Anshuman
+      <animate attributeName="x" values="66;56;62;60;66" dur="1.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g clip-path="url(#s2)">
+    <text class="t" x="60" y="88" fill="#7c4dff" opacity="0.9">
+      Hello, I'm Anshuman
+      <animate attributeName="x" values="70;45;60;62;70" dur="1.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g clip-path="url(#s3)">
+    <text class="t" x="60" y="88" fill="#00ffa3" opacity="0.9">
+      Hello, I'm Anshuman
+      <animate attributeName="x" values="50;72;60;58;50" dur="1.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Horizontal slice jumps -->
+  <rect x="0" y="44" width="900" height="28" fill="url(#bg)">
+    <animate attributeName="x" values="-6;0;4;0;-6" dur="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.15;0;0.1;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtle global shake -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0.4 -0.6; -0.3 0.8; 0.2 -0.2; 0 0"
+      dur="1.8s" repeatCount="indefinite"/>
+  </g>
+</svg>
