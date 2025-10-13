@@ -1,8 +1,7 @@
 <!-- HEADER -->
 <div align="center">
-  <p align="center">
   <img src="./glitch.svg" alt="Hello, I'm Anshuman - glitch">
-</p>
+</div>
   <h3>Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀</h3>
 </div>
 
