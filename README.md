@@ -1,6 +1,8 @@
 <!-- HEADER -->
 <div align="center">
-  <h1 style="color:#00E0FF;">Hello, I'm Anshuman 👋</h1>
+  <p align="center">
+  <img src="./glitch.svg" alt="Hello, I'm Anshuman - glitch">
+</p>
   <h3>Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀</h3>
 </div>
 
