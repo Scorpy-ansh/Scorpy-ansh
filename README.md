@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="./Github cover.png" alt="Anshuman Pattanayak GitHub Banner" width="100%">
+  <img src="./Github cover.png" alt="Anshuman Pattanayak GitHub Banner" width="100%" style="border-radius: 15px;">
   <h3 align="center">Machine Learning | Deep Learning | Frontend & UI/UX | Always Exploring 🚀</h3>
 </div>
 
