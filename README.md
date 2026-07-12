@@ -29,25 +29,6 @@
   <img src="https://img.shields.io/badge/Laundry%20Lift-Graphic%20Designer-purple?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Laundry Lift Graphic Designer"/>
 </p>
 
----
-## 💡 Featured Projects
-<p align="center">
-
-  <a href="https://github.com/Scorpy-ansh/Hindi-asr-whisper">
-    <img src="https://img.shields.io/badge/Hindi--ASR--Whisper-%2300BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Hindi ASR Whisper"/>
-  </a>
-  <a href="https://github.com/Scorpy-ansh/pedestrian-safety">
-    <img src="https://img.shields.io/badge/Pedestrian--Safety-%23FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Pedestrian Safety"/>
-  </a>
-  <a href="https://github.com/Scorpy-ansh/VGG-Image-Classification">
-    <img src="https://img.shields.io/badge/VGG--Image--Classification-%23FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="VGG Image Classification"/>
-  </a>
-  <a href="https://github.com/Scorpy-ansh/Resnet50-Image-Classification">
-    <img src="https://img.shields.io/badge/ResNet50--Image--Classification-%237B68EE?style=for-the-badge&logo=github&logoColor=white" alt="ResNet50 Image Classification"/>
-  </a>
-
-</p>
-
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/anshuman-pattanayak-3ba579338/">
